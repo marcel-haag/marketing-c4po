@@ -365,6 +365,34 @@ file:///Users/cel/Desktop/C4PO%20Website/marketing-c4po/index.html
     background-color: #222644;
 }
 
+.gb-container.gb-container-5628ce4c {
+    /*Fix*/
+    background-color: #222644;
+}
+
+
+.bonus {
+    color: #222644 !important;
+}
+
+
+.author {
+    padding-top: 1rem;
+    color: #fefeff !important;
+}
+
+.juice {
+    /*Fix*/
+    background-color: #ffab00 !important;
+    border-color: #222644 !important;
+}
+
+.juice:hover {
+    /*Fix*/
+    background-color: #ffab00 !important;
+    border-color: #fefeff !important;
+}
+
 .gb-container.gb-container-fae303c0 {
 }
 
@@ -544,14 +572,14 @@ file:///Users/cel/Desktop/C4PO%20Website/marketing-c4po/index.html
 
 .circle.bg-blue {
     /*Fix*/
-    background-color: #ff3d70;
-    /*background-color: #3267fe;*/
+    background-color: #222644;
+    /*background-color: #ff3d70;*/
 }
 
 .button-text.text-blue {
     /*Fix*/
-   color: #ff3d70;
-   /*color: #3267fe;*/
+   color: #222644;
+   /*color: #ff3d70;*/
 }
 
 .gb-container.gb-container-f00317ac.angle-bottom-down.angle-white.alignfull {
@@ -570,6 +598,7 @@ file:///Users/cel/Desktop/C4PO%20Website/marketing-c4po/index.html
 }
 
 .gb-inside-container {
+
 }
 
 .wp-block-image.aligncenter.size-full.text-center.w-full {
@@ -688,37 +717,48 @@ file:///Users/cel/Desktop/C4PO%20Website/marketing-c4po/index.html
 .shadow-lg.swiper-slide.sr-only {
 }
 
-.gb-container.gb-container-836b46bf.angle-top-up.angle-packet-purple {
+.gb-container.gb-container-836b46bf.angle-top-up.angle-packet {
+    background-color: #222644;
 }
 
 .gb-container.gb-container-113ea891 {
+    background-color: #222644;
 }
 
 .gb-grid-wrapper.gb-grid-wrapper-f17e5407 {
+
 }
 
 .gb-grid-column.gb-grid-column-c987428c {
+    background-color: #222644 !important;
 }
 
 .gb-container.gb-container-c987428c {
+    background-color: #222644 !important;
 }
 
 .gb-grid-wrapper.gb-grid-wrapper-7968cf3d {
+    background-color: #222644 !important;
 }
 
 .gb-grid-column.gb-grid-column-9132fde0 {
+    background-color: #222644 !important;
 }
 
 .gb-container.gb-container-9132fde0 {
+    background-color: #222644 !important;
 }
 
 .gb-headline.gb-headline-386cea57.gb-headline-text {
+    font-size: xx-large;
 }
 
 .gb-grid-column.gb-grid-column-e5ff9470 {
+
 }
 
 .gb-container.gb-container-e5ff9470 {
+
 }
 
 .gb-headline.gb-headline-4600978c.gb-headline-text {
@@ -818,18 +858,33 @@ file:///Users/cel/Desktop/C4PO%20Website/marketing-c4po/index.html
 }
 
 .gb-headline.gb-headline-574df782.gb-headline-text {
+    /*Fix*/
+    color: #3267fe;
+}
+
+.gb-button.gb-button-ba67da38.gb-button-text {
+    /*Fix*/
+    background-color: #3267fe !important;
+    border-color: #3267fe !important;
+}
+
+.gb-button.gb-button-ba67da38.gb-button-text:hover {
+    /*Fix*/
+    color: #3267fe;
+    background-color: #fefeff !important;
+    border-color: #3267fe !important;
 }
 
 .gb-headline.gb-headline-6634c847.gb-headline-text {
 }
 
 .gb-headline.gb-headline-1aca099b.gb-headline-text {
+    /*Fix*/
+    color: #fefeff;
+    padding: 2rem 2rem 2rem 0;
 }
 
 .gb-button-wrapper.gb-button-wrapper-ebe55007 {
-}
-
-.gb-button.gb-button-ba67da38.gb-button-text {
 }
 
 .container.mx-auto.px-4.py-8 {
