@@ -165,7 +165,6 @@ file:///Users/cel/Desktop/C4PO%20Website/marketing-c4po/index.html
 }
 
 #header-nav {
-    /*Fix*/
     background-color: #222644;
 }
 
@@ -233,12 +232,10 @@ file:///Users/cel/Desktop/C4PO%20Website/marketing-c4po/index.html
 }
 
 .gb-container.gb-container-74ef8d08.slanted-bg-blade.alignfull {
-    /*Fix*/
     background-color: #151b2e;
 }
 
 .gb-container.gb-container-a2b3e8c0 {
-    /*Fix*/
     /*background-color: #222644;*/
 }
 
@@ -291,7 +288,6 @@ file:///Users/cel/Desktop/C4PO%20Website/marketing-c4po/index.html
 }
 
 .text-lg.md:text-xl.pb-8.checkmark.dark-blue {
-    /*Fix*/
     color: #34a4fe !important;
     background-color: #34a4fe !important;
 }
@@ -300,7 +296,6 @@ file:///Users/cel/Desktop/C4PO%20Website/marketing-c4po/index.html
 }
 
 .circle.bg-dark-blue {
-    /*Fix*/
     background-color: #34a4fe;
 }
 
@@ -308,7 +303,6 @@ file:///Users/cel/Desktop/C4PO%20Website/marketing-c4po/index.html
 }
 
 .button-text.text-dark-blue {
-    /*Fix*/
     color: #34a4fe;
 }
 
@@ -361,12 +355,10 @@ file:///Users/cel/Desktop/C4PO%20Website/marketing-c4po/index.html
 }
 
 .gb-container.gb-container-5628ce4e {
-    /*Fix*/
     background-color: #222644;
 }
 
 .gb-container.gb-container-5628ce4c {
-    /*Fix*/
     background-color: #222644;
 }
 
@@ -382,13 +374,11 @@ file:///Users/cel/Desktop/C4PO%20Website/marketing-c4po/index.html
 }
 
 .juice {
-    /*Fix*/
     background-color: #ffab00 !important;
     border-color: #222644 !important;
 }
 
 .juice:hover {
-    /*Fix*/
     background-color: #ffab00 !important;
     border-color: #fefeff !important;
 }
@@ -571,13 +561,11 @@ file:///Users/cel/Desktop/C4PO%20Website/marketing-c4po/index.html
 }
 
 .circle.bg-blue {
-    /*Fix*/
     background-color: #222644;
     /*background-color: #ff3d70;*/
 }
 
 .button-text.text-blue {
-    /*Fix*/
    color: #222644;
    /*color: #ff3d70;*/
 }
@@ -689,7 +677,6 @@ file:///Users/cel/Desktop/C4PO%20Website/marketing-c4po/index.html
 }
 
 .mb-8.text-lg.sm:text-xl.lg:text-2xl.font-extrabold.text-packet-purple.text-left {
-    /*Fix*/
     color: #34a4fe !important;
 }
 
@@ -858,18 +845,15 @@ file:///Users/cel/Desktop/C4PO%20Website/marketing-c4po/index.html
 }
 
 .gb-headline.gb-headline-574df782.gb-headline-text {
-    /*Fix*/
     color: #3267fe;
 }
 
 .gb-button.gb-button-ba67da38.gb-button-text {
-    /*Fix*/
     background-color: #3267fe !important;
     border-color: #3267fe !important;
 }
 
 .gb-button.gb-button-ba67da38.gb-button-text:hover {
-    /*Fix*/
     color: #3267fe;
     background-color: #fefeff !important;
     border-color: #3267fe !important;
@@ -879,7 +863,6 @@ file:///Users/cel/Desktop/C4PO%20Website/marketing-c4po/index.html
 }
 
 .gb-headline.gb-headline-1aca099b.gb-headline-text {
-    /*Fix*/
     color: #fefeff;
     padding: 2rem 2rem 2rem 0;
 }
