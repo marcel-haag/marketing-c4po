@@ -12,10 +12,6 @@
     --c4po-white: #fefeff;
 }
 
-/*
-file:///Users/cel/Desktop/C4PO%20Website/marketing-c4po/index.html
-*/
-
 * {
     background-color: var(c4po-dark-blue);
     font-family: futura !important;
