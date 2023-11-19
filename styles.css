@@ -556,6 +556,35 @@
 .gb-headline.gb-headline-8cfed685.gb-headline-text {
 }
 
+.link-area {
+    width: 16.8rem !important;
+    margin: 2rem;
+}
+
+.circle.bg-primary {
+    background-color: #3267fe;
+}
+
+.button-text.text-primary {
+   color: #3267fe;
+}
+
+.circle.bg-green {
+    background-color: #01d68f;
+}
+
+.button-text.text-green {
+   color: #01d68f;
+}
+
+.circle.bg-light-blue {
+    background-color: #34a4fe;
+}
+
+.button-text.text-light-blue {
+   color: #34a4fe;
+}
+
 .circle.bg-blue {
     background-color: #222644;
     /*background-color: #ff3d70;*/
